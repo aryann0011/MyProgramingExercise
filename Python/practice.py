@@ -9,5 +9,5 @@ while num <= 100:
             break
         i += 1
     if prime_number:
-        print(num, end=' ')
+        print(num, end='\n ')
     num += 1
